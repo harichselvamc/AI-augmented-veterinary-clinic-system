@@ -28,8 +28,8 @@ VetAI is an AI-augmented veterinary clinic management system designed to streaml
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vetai-clinic.git
-   cd vetai-clinic
+   git clone https://github.com/harichselvamc/AI-augmented-veterinary-clinic-system.git
+   cd AI-augmented-veterinary-clinic-system
    ```
 
 2. Install dependencies:
@@ -50,7 +50,7 @@ VetAI is an AI-augmented veterinary clinic management system designed to streaml
 ## 📁 Project Structure
 
 ```
-vet_ai_clinic/
+AI-augmented-veterinary-clinic-system/
 ├── db/
 │   ├── schema_sqlite.sql   # SQLite DB schema
 │   └── init_db.py          # DB initialization script
